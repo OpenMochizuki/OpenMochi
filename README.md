@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/903a1640-8a47-4b0b-bb16-96904f3d7a35">
+</p>
+
 # OpenMochi
 
 OpenMochi has been forked from [OpenTaiko](https://github.com/OpenTaiko), as a way to recreate the Rhythmic Mochizuki games found on SmileBASIC for the Nintendo Switch.
@@ -44,4 +48,5 @@ OpenMochi license does not apply in this case.
 > * [FROM/DTXMaina](https://github.com/DTXMania)(@DTXMania)
 > * [Kairera0467/TJAP2fPC](https://github.com/kairera0467/TJAP2fPC)(@Kairera0467)
 > * [touhourenren/TJAPlayer3-Develop-Rewrite](https://github.com/touhourenren)
+
 
