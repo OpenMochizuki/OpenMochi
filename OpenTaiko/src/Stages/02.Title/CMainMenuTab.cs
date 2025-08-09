@@ -4,7 +4,7 @@ using FDK;
 namespace OpenTaiko;
 
 class CMainMenuTab {
-	public static int __MenuCount = 14; // Number of existing menus
+	public static int __MenuCount = 15; // Number of existing menus
 	public static CMainMenuTab[] __Menus;
 	public static bool __BoxesProcessed = false;
 
@@ -65,6 +65,8 @@ class CMainMenuTab {
 				return CLangManager.LangInstance.GetString($"TITLE_MODE_EDITOR{append}");
 			case 13:
 				return CLangManager.LangInstance.GetString($"TITLE_MODE_TOOLS{append}");
+			case 14:
+				return CLangManager.LangInstance.GetString($"TITLE_MODE_ENDLESS{append}");
 		}
 	}
 

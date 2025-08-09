@@ -19,15 +19,25 @@ class NotesManager {
 		["7"] = 7, // Balloon
 		["8"] = 8, // Roll/Balloon end
 		["9"] = 9, // Kusudama
-		["A"] = 10, // Joint Big Don (2P)
-		["B"] = 11, // Joint Big Ka (2P)
+		["A"] = 10, // ABXY Mochi
+		["B"] = 11, // Directional Mochi
 		["C"] = 12, // Mine
 		["D"] = 13, // ProjectOutfox's Fuse roll
 		["E"] = 0, // Unused
 		["F"] = 15, // ADLib
 		["G"] = 0xF1, // Green (Purple) double hit note
-		["H"] = 16, // Konga clap roll | Taiko big roll
-		["I"] = 17, // Konga yellow roll | Taiko small roll
+		["H"] = 16, // Silver Mochi
+		["I"] = 17, // Rainbow Mochi
+		["J"] = 18, // Face Button Mochi
+		["K"] = 19, // D-Pad Mochi
+		["L"] = 20, // Dark Red Mochi
+		["M"] = 21, // Dark Blue Mochi
+		["N"] = 22, // Apricot Mochi
+		["O"] = 23, // Green Mochi
+		["S"] = 24, // Shoulder Mochi
+		["W"] = 25, // White Mochi
+		["Y"] = 26, // Yellow Mochi
+		["Z"] = 27, // Hold
 	};
 
 	public static bool FastFlankedParsing(string s) {

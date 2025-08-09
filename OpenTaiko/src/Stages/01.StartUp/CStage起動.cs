@@ -88,7 +88,8 @@ internal class CStage起動 : CStage {
 				this.list進行文字列.Add("");
 				this.list進行文字列.Add("TJAPlayer3-Develop-ReWrite forked TJAPlayer3(@aioilight)");
 				this.list進行文字列.Add("OpenTaiko forked TJAPlayer3-Develop-ReWrite(@TouhouRenren)");
-				this.list進行文字列.Add("OpenTaiko edited by 0AuBSQ");
+				this.list進行文字列.Add("OpenMochi forked OpenTaiko(@0AuBSQ)");
+				this.list進行文字列.Add("OpenMochi edited by Ryuto Setsujin");
 				this.list進行文字列.Add("");
 
 				es = new CEnumSongs();

@@ -34,19 +34,13 @@ internal class CStageTitle : CStage {
 
 			usedMenus = new int[] {
 				0,
-				1,
-				2,
-				10,
-				5,
-				//3,
-				//9,
-				8,
+				14,
+				11,
 				6,
 				7,
 
 				// -- Debug
 				/*
-				11,
 				12,
 				13,
 				*/
