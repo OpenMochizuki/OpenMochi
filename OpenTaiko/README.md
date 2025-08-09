@@ -39,6 +39,7 @@ BoxFontName=廻想体 ネクスト UP B
 - PNG Egg (Fireworks) (Non-commercial)
 - Takkkom - https://github.com/Takkkom (AI Battle mode and 5P assets)
 ```
+
 ## Pre-Installed Songs
 
 ### Credits
